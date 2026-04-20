@@ -98,12 +98,3 @@ requirements: requirements.txt
 system_dependencies: system-dependencies.json
 primary_branch: main
 managed_services: klipper
-[update_manager crowsnest]
-type: git_repo
-path: ~/crowsnest
-origin: https://github.com/mainsail-crew/crowsnest.git
-primary_branch: v5
-managed_services: crowsnest
-system_dependencies: system-dependencies.json
-virtualenv: ~/crowsnest-env
-requirements: requirements.txt

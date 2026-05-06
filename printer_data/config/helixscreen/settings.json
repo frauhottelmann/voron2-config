@@ -501,6 +501,19 @@
                   "id": "motion",
                   "row": -1,
                   "rowspan": 1
+                },
+                {
+                  "col": 0,
+                  "colspan": 1,
+                  "config": {
+                    "sensors": [
+                      "temperature_sensor chamber"
+                    ]
+                  },
+                  "enabled": true,
+                  "id": "thermistor:1",
+                  "row": 0,
+                  "rowspan": 1
                 }
               ]
             }

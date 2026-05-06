@@ -514,6 +514,14 @@
                   "id": "thermistor:1",
                   "row": 0,
                   "rowspan": 1
+                },
+                {
+                  "col": 0,
+                  "colspan": 2,
+                  "enabled": true,
+                  "id": "temp_graph:1",
+                  "row": 0,
+                  "rowspan": 2
                 }
               ]
             }

@@ -78,15 +78,15 @@
       "filament": {
         "external_spool": {
           "assigned": true,
-          "bed_temp": 100,
-          "brand": "THE FILAMENT by Spectrum",
-          "color_rgb": 0,
-          "material": "ASA-CF",
+          "bed_temp": 70,
+          "brand": "Spectrum",
+          "color_rgb": 15058862,
+          "material": "PETG",
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
-          "remaining_weight_g": 0.0,
-          "spool_name": "THE FILAMENT by Spectrum ASA-CF",
-          "spoolman_id": 15,
+          "remaining_weight_g": 111.76153564453125,
+          "spool_name": "Spectrum PETG - PETG High Speed Light Ivory",
+          "spoolman_id": 16,
           "total_weight_g": 1000.0
         }
       },

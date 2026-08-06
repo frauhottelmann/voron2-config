@@ -508,11 +508,11 @@
                   "rowspan": 1
                 },
                 {
-                  "col": 2,
+                  "col": 0,
                   "colspan": 1,
                   "enabled": true,
                   "id": "motion",
-                  "row": 0,
+                  "row": 3,
                   "rowspan": 1
                 },
                 {

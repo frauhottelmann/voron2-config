@@ -513,6 +513,14 @@
                   "id": "control_buttons",
                   "row": -1,
                   "rowspan": 1
+                },
+                {
+                  "col": 3,
+                  "colspan": 2,
+                  "enabled": true,
+                  "id": "temp_graph:1",
+                  "row": 0,
+                  "rowspan": 2
                 }
               ]
             }

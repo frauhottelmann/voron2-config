@@ -251,11 +251,11 @@
                   "rowspan": 1
                 },
                 {
-                  "col": -1,
+                  "col": 0,
                   "colspan": 1,
-                  "enabled": false,
+                  "enabled": true,
                   "id": "led_controls",
-                  "row": -1,
+                  "row": 0,
                   "rowspan": 1
                 },
                 {

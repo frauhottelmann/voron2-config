@@ -517,6 +517,71 @@
                 {
                   "col": 3,
                   "colspan": 3,
+                  "config": {
+                    "follow_overlay": false,
+                    "sensors": [
+                      {
+                        "color": 16729156,
+                        "enabled": true,
+                        "name": "extruder"
+                      },
+                      {
+                        "color": 8962256,
+                        "enabled": true,
+                        "name": "heater_bed"
+                      },
+                      {
+                        "color": 10731148,
+                        "enabled": false,
+                        "name": "chamber"
+                      },
+                      {
+                        "color": 15453067,
+                        "enabled": false,
+                        "name": "temperature_sensor chamber"
+                      },
+                      {
+                        "color": 11833005,
+                        "enabled": false,
+                        "name": "temperature_sensor h36_mcu_temp"
+                      },
+                      {
+                        "color": 13666160,
+                        "enabled": false,
+                        "name": "tmc5160 stepper_x"
+                      },
+                      {
+                        "color": 6193580,
+                        "enabled": false,
+                        "name": "tmc5160 stepper_y"
+                      },
+                      {
+                        "color": 12542314,
+                        "enabled": false,
+                        "name": "temperature_sensor cartographer_coil"
+                      },
+                      {
+                        "color": 16729156,
+                        "enabled": false,
+                        "name": "temperature_sensor cartographer"
+                      },
+                      {
+                        "color": 8962256,
+                        "enabled": false,
+                        "name": "temperature_sensor h36_driver_Temp"
+                      },
+                      {
+                        "color": 10731148,
+                        "enabled": false,
+                        "name": "temperature_sensor Octopus"
+                      },
+                      {
+                        "color": 15453067,
+                        "enabled": false,
+                        "name": "temperature_sensor RPI4"
+                      }
+                    ]
+                  },
                   "enabled": true,
                   "id": "temp_graph:1",
                   "row": 0,

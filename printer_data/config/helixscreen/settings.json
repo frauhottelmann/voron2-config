@@ -156,8 +156,9 @@
           "#9C27B0",
           "#00BCD4"
         ],
-        "last_brightness": 100,
+        "last_brightness": 61,
         "last_color": "#FFFFFF",
+        "last_white": 0.0,
         "led_on_at_start": false,
         "macro_devices": [],
         "selected": [],

@@ -412,11 +412,11 @@
                   "rowspan": 1
                 },
                 {
-                  "col": 2,
+                  "col": 0,
                   "colspan": 1,
                   "enabled": true,
                   "id": "macros",
-                  "row": 1,
+                  "row": 0,
                   "rowspan": 1
                 },
                 {

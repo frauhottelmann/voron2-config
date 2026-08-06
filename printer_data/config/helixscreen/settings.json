@@ -191,7 +191,7 @@
                   "col": 0,
                   "colspan": 2,
                   "config": {
-                    "layout_style": "detailed",
+                    "layout_style": "library",
                     "show_job_queue": true,
                     "show_print_files": true,
                     "show_recent_prints": true,

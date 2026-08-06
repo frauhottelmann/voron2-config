@@ -292,7 +292,7 @@
                 },
                 {
                   "col": 2,
-                  "colspan": 2,
+                  "colspan": 1,
                   "enabled": true,
                   "id": "temp_stack",
                   "row": 0,

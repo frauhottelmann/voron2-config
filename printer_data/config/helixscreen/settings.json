@@ -12,7 +12,8 @@
     "gpu_blur_blocked": false,
     "screensaver_type": 0,
     "sleep_sec": 0,
-    "time_format": 1
+    "time_format": 1,
+    "timezone": "Europe/Berlin"
   },
   "gcode_viewer": {
     "shading_model": "phong",

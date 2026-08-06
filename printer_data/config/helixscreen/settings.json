@@ -420,9 +420,9 @@
                   "rowspan": 1
                 },
                 {
-                  "col": 0,
+                  "col": 2,
                   "colspan": 1,
-                  "enabled": false,
+                  "enabled": true,
                   "id": "macros",
                   "row": 0,
                   "rowspan": 1

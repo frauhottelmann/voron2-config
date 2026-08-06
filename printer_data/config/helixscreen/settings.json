@@ -192,8 +192,8 @@
                   "colspan": 2,
                   "enabled": true,
                   "id": "print_status",
-                  "row": 2,
-                  "rowspan": 2
+                  "row": 1,
+                  "rowspan": 3
                 },
                 {
                   "col": 2,

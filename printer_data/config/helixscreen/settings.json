@@ -276,11 +276,11 @@
                   "rowspan": 1
                 },
                 {
-                  "col": 0,
+                  "col": 2,
                   "colspan": 1,
                   "enabled": true,
                   "id": "bed_temperature",
-                  "row": 0,
+                  "row": 2,
                   "rowspan": 1
                 },
                 {
@@ -388,11 +388,11 @@
                   "rowspan": 2
                 },
                 {
-                  "col": 4,
+                  "col": 2,
                   "colspan": 1,
                   "enabled": true,
                   "id": "clog_detection",
-                  "row": 2,
+                  "row": 1,
                   "rowspan": 1
                 },
                 {

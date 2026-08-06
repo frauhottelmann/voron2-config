@@ -291,12 +291,12 @@
                   "rowspan": 1
                 },
                 {
-                  "col": -1,
+                  "col": 2,
                   "colspan": 1,
-                  "enabled": false,
+                  "enabled": true,
                   "id": "temp_stack",
-                  "row": -1,
-                  "rowspan": 1
+                  "row": 0,
+                  "rowspan": 2
                 },
                 {
                   "col": -1,

@@ -276,7 +276,7 @@
                   "rowspan": 1
                 },
                 {
-                  "col": 2,
+                  "col": 4,
                   "colspan": 1,
                   "enabled": true,
                   "id": "bed_temperature",
@@ -392,7 +392,7 @@
                   "colspan": 1,
                   "enabled": true,
                   "id": "clog_detection",
-                  "row": 1,
+                  "row": 2,
                   "rowspan": 1
                 },
                 {

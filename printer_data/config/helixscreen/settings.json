@@ -189,7 +189,7 @@
                 },
                 {
                   "col": 0,
-                  "colspan": 2,
+                  "colspan": 3,
                   "config": {
                     "layout_style": "library",
                     "show_job_queue": true,

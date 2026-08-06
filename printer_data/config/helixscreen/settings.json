@@ -200,7 +200,7 @@
                   },
                   "enabled": true,
                   "id": "print_status",
-                  "row": 1,
+                  "row": 0,
                   "rowspan": 2
                 },
                 {
@@ -422,7 +422,7 @@
                 {
                   "col": 0,
                   "colspan": 1,
-                  "enabled": true,
+                  "enabled": false,
                   "id": "macros",
                   "row": 0,
                   "rowspan": 1
@@ -518,7 +518,7 @@
                 {
                   "col": 1,
                   "colspan": 2,
-                  "enabled": true,
+                  "enabled": false,
                   "id": "control_buttons",
                   "row": 0,
                   "rowspan": 1

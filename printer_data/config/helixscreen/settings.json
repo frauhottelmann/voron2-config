@@ -293,6 +293,9 @@
                 {
                   "col": 2,
                   "colspan": 1,
+                  "config": {
+                    "display_mode": "carousel"
+                  },
                   "enabled": true,
                   "id": "temp_stack",
                   "row": 0,

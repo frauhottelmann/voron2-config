@@ -516,11 +516,11 @@
                   "rowspan": 1
                 },
                 {
-                  "col": 1,
+                  "col": 0,
                   "colspan": 2,
-                  "enabled": false,
+                  "enabled": true,
                   "id": "control_buttons",
-                  "row": 0,
+                  "row": 2,
                   "rowspan": 1
                 },
                 {

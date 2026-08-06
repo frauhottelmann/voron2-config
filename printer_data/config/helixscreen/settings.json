@@ -530,7 +530,7 @@
     "show_printer_switcher": false
   },
   "standard_macros": {
-    "bed_level": "",
+    "bed_level": "_CQGL",
     "bed_mesh": "",
     "cancel": "",
     "clean_nozzle": "BRUSH_NOZZLE",

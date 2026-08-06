@@ -34,7 +34,7 @@
     "scroll_throw": 25,
     "touch_device": ""
   },
-  "language": "en",
+  "language": "de",
   "log_path": "/tmp/helixscreen.log",
   "motion": {
     "jog_mode": 1

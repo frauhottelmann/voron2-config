@@ -538,6 +538,7 @@
     "load_filament": "",
     "pause": "",
     "purge": "",
+    "quick_button_3": "pause",
     "resume": "",
     "unload_filament": ""
   },

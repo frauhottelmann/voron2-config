@@ -532,7 +532,7 @@
                       },
                       {
                         "color": 10731148,
-                        "enabled": false,
+                        "enabled": true,
                         "name": "chamber"
                       },
                       {

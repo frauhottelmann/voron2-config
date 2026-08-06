@@ -539,6 +539,7 @@
     "pause": "",
     "purge": "",
     "quick_button_3": "pause",
+    "quick_button_4": "cancel",
     "resume": "",
     "unload_filament": ""
   },

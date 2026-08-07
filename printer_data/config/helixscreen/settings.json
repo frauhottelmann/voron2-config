@@ -150,7 +150,7 @@
             "temperature_sensor RPI4",
             "temperature_sensor chamber"
           ],
-          "timestamp": "2026-08-07T13:30:07Z"
+          "timestamp": "2026-08-07T13:51:21Z"
         },
         "optional": [
           "controller_fan steppers",

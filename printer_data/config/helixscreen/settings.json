@@ -42,6 +42,18 @@
   "motion": {
     "jog_mode": 0
   },
+  "print_start_history": {
+    "entries": [
+      {
+        "phases": {
+          "9": 7
+        },
+        "temp_bucket": 1,
+        "timestamp": 1786100132,
+        "total": 156
+      }
+    ]
+  },
   "printers": {
     "default": {
       "appearance": {
@@ -82,7 +94,7 @@
           "material": "PETG",
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
-          "remaining_weight_g": 39.32024002075195,
+          "remaining_weight_g": 5.767326354980469,
           "spool_name": "Spectrum PETG - PETG High Speed Light Ivory",
           "spoolman_id": 16,
           "total_weight_g": 1000.0
@@ -629,6 +641,16 @@
   "telemetry_enabled": true,
   "theme": {
     "preset": 0
+  },
+  "thermal": {
+    "rates": {
+      "extruder": {
+        "heat_rate": 0.5956475138664246
+      },
+      "heater_bed": {
+        "heat_rate": 5.17983865737915
+      }
+    }
   },
   "tour": {
     "completed": true,

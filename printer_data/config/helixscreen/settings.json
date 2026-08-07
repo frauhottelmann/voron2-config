@@ -152,7 +152,10 @@
           ],
           "timestamp": "2026-08-07T13:30:07Z"
         },
-        "optional": []
+        "optional": [
+          "controller_fan steppers",
+          "controller_fan electronics_compartment"
+        ]
       },
       "heaters": {
         "bed": "heater_bed",

@@ -88,15 +88,15 @@
       "filament": {
         "external_spool": {
           "assigned": true,
-          "bed_temp": 70,
-          "brand": "Spectrum",
-          "color_rgb": 15058862,
+          "bed_temp": 80,
+          "brand": "Sunlu",
+          "color_rgb": 2629412,
           "material": "PETG",
           "nozzle_temp_max": 0,
           "nozzle_temp_min": 0,
-          "remaining_weight_g": 5.414458751678467,
-          "spool_name": "Spectrum PETG - PETG High Speed Light Ivory",
-          "spoolman_id": 16,
+          "remaining_weight_g": 520.6217651367188,
+          "spool_name": "Sunlu PETG - Black",
+          "spoolman_id": 6,
           "total_weight_g": 1000.0
         }
       },
